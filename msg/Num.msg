@@ -1,0 +1,3 @@
+float32 mi_distance
+int64 mi_distance_x
+int64 mi_distance_y
